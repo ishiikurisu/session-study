@@ -1,0 +1,9 @@
+---
+build:
+  local: true
+  commands:
+  - npm install
+execute:
+  local: true
+  commands:
+  - node app.js

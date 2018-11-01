@@ -1,0 +1,22 @@
+{
+  "name": "session-study",
+  "version": "1.0.0",
+  "description": "dealing with sessions",
+  "main": "app.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ishiikurisu/session-study.git"
+  },
+  "author": "@ishiikurisu",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/ishiikurisu/session-study/issues"
+  },
+  "homepage": "https://github.com/ishiikurisu/session-study#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
