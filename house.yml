@@ -6,4 +6,4 @@ build:
 execute:
   local: true
   commands:
-  - node app.js
+  - node session.js @salt @text

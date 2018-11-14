@@ -4,7 +4,8 @@
   "description": "dealing with sessions",
   "main": "app.js",
   "scripts": {
-    "test": "test.js"
+    "start": "node app.js",
+    "test": "node test.js"
   },
   "repository": {
     "type": "git",
@@ -17,6 +18,8 @@
   },
   "homepage": "https://github.com/ishiikurisu/session-study#readme",
   "dependencies": {
-    "express": "^4.16.4"
+    "express": "^4.16.4",
+    "jshashes": "^1.0.7",
+    "mocha": "^5.2.0"
   }
 }
